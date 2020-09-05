@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\bin\Debug\netcoreapp2.2\10.LadyBugs.deps.json
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\bin\Debug\netcoreapp2.2\10.LadyBugs.runtimeconfig.json
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\bin\Debug\netcoreapp2.2\10.LadyBugs.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\bin\Debug\netcoreapp2.2\10.LadyBugs.dll
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\bin\Debug\netcoreapp2.2\10.LadyBugs.pdb
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\obj\Debug\netcoreapp2.2\10.LadyBugs.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\obj\Debug\netcoreapp2.2\10.LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\obj\Debug\netcoreapp2.2\10.LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\obj\Debug\netcoreapp2.2\10.LadyBugs.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\obj\Debug\netcoreapp2.2\10.LadyBugs.dll
+C:\Users\Dimitar\source\repos\ArraysExerc\LadyBugs\obj\Debug\netcoreapp2.2\10.LadyBugs.pdb

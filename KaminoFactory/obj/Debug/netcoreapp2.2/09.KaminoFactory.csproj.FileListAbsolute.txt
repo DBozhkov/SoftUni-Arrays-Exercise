@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\bin\Debug\netcoreapp2.2\09.KaminoFactory.deps.json
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\bin\Debug\netcoreapp2.2\09.KaminoFactory.runtimeconfig.json
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\bin\Debug\netcoreapp2.2\09.KaminoFactory.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\bin\Debug\netcoreapp2.2\09.KaminoFactory.dll
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\bin\Debug\netcoreapp2.2\09.KaminoFactory.pdb
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\obj\Debug\netcoreapp2.2\09.KaminoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\obj\Debug\netcoreapp2.2\09.KaminoFactory.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\obj\Debug\netcoreapp2.2\09.KaminoFactory.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\obj\Debug\netcoreapp2.2\09.KaminoFactory.dll
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\obj\Debug\netcoreapp2.2\09.KaminoFactory.pdb
+C:\Users\Dimitar\source\repos\ArraysExerc\KaminoFactory\obj\Debug\netcoreapp2.2\09.KaminoFactory.csprojAssemblyReference.cache
